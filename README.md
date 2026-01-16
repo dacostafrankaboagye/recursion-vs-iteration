@@ -134,3 +134,6 @@ both the recursive and iterative versions for that problem.
 Feel free to add more modules under `problems/` and extend
 `test_exercises.py` with more problems, but keep the same structure so
 the contribution process stays simple.
+
+## Board
+- [Board Items](https://github.com/users/dacostafrankaboagye/projects/7/views/3)
